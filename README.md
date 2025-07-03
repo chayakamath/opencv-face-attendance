@@ -88,6 +88,5 @@ python export_attendance.py
 streamlit run streamlit_ui.py
 
 ### OUTPUT
-![Image](https://github.com/user-attachments/assets/33cb93b0-dedc-4191-af44-a6a9addb9786)
-
+![Image](https://github.com/user-attachments/assets/62f1ad15-615e-428d-8ada-1f3c0bee1a44)
 
