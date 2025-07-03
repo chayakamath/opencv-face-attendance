@@ -31,16 +31,27 @@ This system detects and recognizes faces from webcam input, marks attendance int
 ## 📁 Folder Structure
 
 📂 face-attendance-system-python/
+
 ├── register_face.py # Register new user's face via webcam
+
 ├── train_model.py # Train the model on collected faces
+
 ├── recognize_and_mark.py # Detect and mark attendance
+
 ├── export_attendance.py # Export attendance to CSV
+
 ├── streamlit_ui.py # Streamlit dashboard
+
 ├── requirements.txt # All dependencies
+
 ├── dataset/ # Face images of users
+
 ├── trainer.yml # Trained model file
+
 ├── attendance.db # SQLite database
+
 └── attendance/ # (Optional) CSV exports
+
 
 
 ---
