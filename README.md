@@ -50,7 +50,7 @@ This system detects and recognizes faces from webcam input, marks attendance int
 ### 1. Clone the Repository
 
 bash
-git clone https://github.com/your-username/face-attendance-system-python.git
+git clone https://github.com/chayakamath/opencv-face-attendance
 cd face-attendance-system-python
 
 ### 2. Create Virtual Environment
