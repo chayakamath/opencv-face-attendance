@@ -87,6 +87,5 @@ python export_attendance.py
 ### 8. Web Dashboard
 streamlit run streamlit_ui.py
 
-### OUTPUT
-![Image](https://github.com/user-attachments/assets/62f1ad15-615e-428d-8ada-1f3c0bee1a44)
+
 
